@@ -1,7 +1,50 @@
 ﻿@page "/"
+@rendermode InteractiveServer
 
 <PageTitle>Home</PageTitle>
 
 <h1>Hello, world!</h1>
 
-Welcome to your new app.
+<EditForm Model="@Model">
+  <InputSelect @bind-Value="Model.id">
+         @foreach  (var test in testList){
+        <option value="@test.id" >
+          @test.nome
+        </option> 
+      }    
+  </InputSelect>
+    <InputSelect @bind-Value="Model.id">
+         @foreach  (var test in testList){
+        <option value="@test.id" >
+          @test.nome
+        </option> 
+      }    
+  </InputSelect>
+
+</EditForm>
+
+@code{
+
+  public class Test(){
+
+    public int id {get; set;}
+    public string nome {get; set;}
+
+
+  }
+
+   public Test Model {get; set; } = new();
+
+  public List<Test> testList {get;set;}
+    
+
+  protected override async void OnInitialized(){
+
+    testList = new List<Test>();
+    testList.Add(new Test(){id = 1, nome = "Joao"});
+    testList.Add(new Test(){id = 2, nome = "Pedro"});
+    testList.Add(new Test(){id = 3, nome = "Rafael"});
+
+  }
+
+}
