@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\git\\TimeManagement\\TimeManagement.csproj": {}
+    "e:\\git\\TimeManagement\\TimeManagement.csproj": {}
   },
   "projects": {
-    "E:\\git\\TimeManagement\\TimeManagement.csproj": {
+    "e:\\git\\TimeManagement\\TimeManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\git\\TimeManagement\\TimeManagement.csproj",
+        "projectUniqueName": "e:\\git\\TimeManagement\\TimeManagement.csproj",
         "projectName": "TimeManagement",
-        "projectPath": "E:\\git\\TimeManagement\\TimeManagement.csproj",
+        "projectPath": "e:\\git\\TimeManagement\\TimeManagement.csproj",
         "packagesPath": "C:\\Users\\kinho\\.nuget\\packages\\",
-        "outputPath": "E:\\git\\TimeManagement\\obj\\",
+        "outputPath": "e:\\git\\TimeManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kinho\\AppData\\Roaming\\NuGet\\NuGet.Config",
