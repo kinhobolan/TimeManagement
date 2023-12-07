@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "e/DKg8flavvguw0DH5VpowfnlCVL7sjazS8nNQpmEuw=",
+  "Hash": "0XKUyxsBKxyFjbwWoP4QwSVdGzAqTpEiGrIvbK+fop8=",
   "Source": "TimeManagement",
   "BasePath": "_content/TimeManagement",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TimeManagement\\wwwroot",
       "Source": "TimeManagement",
-      "ContentRoot": "E:\\git\\TimeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\TimeManagement\\wwwroot\\",
       "BasePath": "_content/TimeManagement",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\git\\TimeManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TimeManagement.styles.css",
+      "Identity": "C:\\Git\\TimeManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TimeManagement.styles.css",
       "SourceId": "TimeManagement",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\git\\TimeManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Git\\TimeManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TimeManagement",
       "RelativePath": "TimeManagement.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\git\\TimeManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TimeManagement.styles.css"
+      "OriginalItemSpec": "C:\\Git\\TimeManagement\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TimeManagement.styles.css"
     },
     {
-      "Identity": "E:\\git\\TimeManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TimeManagement.bundle.scp.css",
+      "Identity": "C:\\Git\\TimeManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TimeManagement.bundle.scp.css",
       "SourceId": "TimeManagement",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\git\\TimeManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Git\\TimeManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TimeManagement",
       "RelativePath": "TimeManagement.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\git\\TimeManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TimeManagement.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Git\\TimeManagement\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TimeManagement.bundle.scp.css"
     },
     {
-      "Identity": "E:\\git\\TimeManagement\\wwwroot\\app.css",
+      "Identity": "C:\\Git\\TimeManagement\\wwwroot\\app.css",
       "SourceId": "TimeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\git\\TimeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\TimeManagement\\wwwroot\\",
       "BasePath": "_content/TimeManagement",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "E:\\git\\TimeManagement\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Git\\TimeManagement\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "TimeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\git\\TimeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\TimeManagement\\wwwroot\\",
       "BasePath": "_content/TimeManagement",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\git\\TimeManagement\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Git\\TimeManagement\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "TimeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\git\\TimeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\TimeManagement\\wwwroot\\",
       "BasePath": "_content/TimeManagement",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\git\\TimeManagement\\wwwroot\\favicon.png",
+      "Identity": "C:\\Git\\TimeManagement\\wwwroot\\favicon.png",
       "SourceId": "TimeManagement",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\git\\TimeManagement\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\TimeManagement\\wwwroot\\",
       "BasePath": "_content/TimeManagement",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

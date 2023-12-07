@@ -1,9 +1,9 @@
 using System.ComponentModel.DataAnnotations;
 
 
-namespace TimeManagement.Models;
+namespace TimeManagement.Models
 //Não pode usar o nome de classe Activity
-public class Activityp {
+public class ActivityUnity {
 
   [Key]
   public int Id {get; set;}
