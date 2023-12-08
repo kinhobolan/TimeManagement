@@ -2772,19 +2772,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kinho\\.nuget\\packages\\": {}
+    "C:\\Users\\kinho\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\git\\TimeManagement\\TimeManagement.csproj",
+      "projectUniqueName": "C:\\Git\\TimeManagement\\TimeManagement.csproj",
       "projectName": "TimeManagement",
-      "projectPath": "E:\\git\\TimeManagement\\TimeManagement.csproj",
+      "projectPath": "C:\\Git\\TimeManagement\\TimeManagement.csproj",
       "packagesPath": "C:\\Users\\kinho\\.nuget\\packages\\",
-      "outputPath": "E:\\git\\TimeManagement\\obj\\",
+      "outputPath": "C:\\Git\\TimeManagement\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\kinho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
