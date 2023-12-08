@@ -27,24 +27,24 @@
 
   public class Test(){
 
-    public int id {get; set;}
-    public string nome {get; set;}
+    public int id {get; set;} = 0;
+    public string nome {get; set;} = string.Empty;
 
 
   }
 
    public Test Model {get; set; } = new();
 
-  public List<Test> testList {get;set;}
+  public List<Test> testList {get;set;} = null!;
     
 
-  protected override async void OnInitialized(){
+  protected override void OnInitialized(){
 
     testList = new List<Test>();
     testList.Add(new Test(){id = 1, nome = "Joao"});
     testList.Add(new Test(){id = 2, nome = "Pedro"});
     testList.Add(new Test(){id = 3, nome = "Rafael"});
-
+     
   }
 
 }
